@@ -1,0 +1,6 @@
+{
+ "name": "astadhwani-studio", "version": "0.2.0", "private": true, "type": "module",
+ "scripts": {"build": "vite build --config web/vite.config.js", "dev": "vite --config web/vite.config.js", "desktop:build": "bash scripts/build-mac.sh"},
+ "dependencies": {"react": "^19.2.0", "react-dom": "^19.2.0", "lucide-react": "^0.552.0"},
+ "devDependencies": {"vite": "^7.2.0"}
+}

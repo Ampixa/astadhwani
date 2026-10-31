@@ -1,0 +1,20 @@
+{
+  "id": "wave1-ckpt6000",
+  "label": "Wave-1 \u00b7 step 6000",
+  "revision": "f4a96a2708d651f95202ecebba025c514935cb77",
+  "engine": "audio8-compatible",
+  "stage": "Local research preview",
+  "device": "CPU \u00b7 float32 \u00b7 2 threads",
+  "note": "Voice similarity and pronunciation vary with the reference and text.",
+  "artifact_checksums": {
+    "model.safetensors": "327bca2331895902ff81dbb14a5ad10dffa9db605cb752e424ca38b9db17b4fe",
+    "codec.pth": "c310505aa11fe2f6cc63b8d3130dc7e77e73227774f5c62575769b1f47a8d048",
+    "config.json": "46d4bcfa018b4019f24783d7a919dacf51f4b572581c6be53bef55acceccd809",
+    "configuration_arktts.py": "7936ca9839bdf4f0a0cfa890b62f646ed94b162b7e351d18b89d1bb1f4542c23",
+    "modeling_arktts.py": "50bc8f9adffa79b231c8b9e8fe7a56cc9b304bd46d1c890fbd24b0d1fd954b12",
+    "modeling_arktts_codec.py": "c9d579f1a876cbceb3f7ef501dfccc17a4986933ba758de36c84450ba4905925",
+    "processing_arktts.py": "4067508f68c3c2fe55f39b7bdf55c903e4d4a78528d359a45695574ef84c5c1f",
+    "processor_config.json": "9b35a69c49ddd5572830e1dd6c5ec21b7bbe53c559cf58076c4704d106a0e604",
+    "tokenizer.json": "f1c5ac4973f74a007635d81dafcb2cf0e5c4578c7426f48f53ab0ebf5b978bef"
+  }
+}

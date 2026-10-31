@@ -1,0 +1,9 @@
+fastapi==0.162.0
+uvicorn==0.54.0
+python-multipart==0.0.33
+numpy>=1.26
+scipy>=1.13
+soundfile>=0.12
+torch==2.14.1
+transformers==4.57.6
+safetensors>=0.4

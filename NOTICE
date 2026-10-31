@@ -1,0 +1,9 @@
+Astadhwani web and Mac client source
+Copyright 2026 Ampixa Labs
+
+The web and Mac clients in this repository do not include model weights.
+The current adapter supports an Audio8-compatible model interface.
+Audio8 and other third-party model implementations and weights retain their
+own licences. No third-party model licence is replaced by the application
+source licence. Dependency notices are retained in desktop/notices and in
+the dependencies assembled by the build.

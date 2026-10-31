@@ -1,0 +1,5 @@
+Astadhwani application source and model weights have separate licences.
+Model weights are not distributed in the source repository.
+The configured local adapter uses a wave-1 reference profile. A generated bundle may contain locally supplied weights; it must not be redistributed without checking their licence and release permission.
+User recordings, transcripts, history and credentials must never be included in application bundles.
+Third-party dependencies retain their distributed licence metadata.
